@@ -1,0 +1,32 @@
+.container {
+    @apply overflow-x-auto;
+  }
+  
+  .wrapper {
+    @apply inline-block min-w-full align-middle;
+  }
+  
+  .thead {
+    @apply border-none bg-gray-50;
+  }
+  
+  .table {
+    @apply min-w-full divide-y divide-gray-100;
+  }
+  
+  .tbody {
+    @apply divide-y divide-gray-100;
+  }
+  
+  .th {
+    @apply p-3 text-left text-base font-bold text-black;
+  }
+  
+  .td {
+    @apply whitespace-nowrap px-3 py-4 text-left text-base font-normal text-black;
+  }
+  
+  .empty {
+    @apply p-6 text-lg text-black;
+  }
+  

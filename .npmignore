@@ -1,0 +1,12 @@
+src
+rollup.config.js
+react-tailwind-table*.tgz
+postcss.config.cjs
+public
+README.md
+tailwind.config.ts
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+index.html
+eslintrc.cjs
