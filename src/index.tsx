@@ -1,5 +1,5 @@
 import { Table } from "./components/Table";
-import { ColumnProps } from "./components/Table/Table.types"
+import { Column } from "./components/Table/Table.types"
 
 export { Table };
-export type { ColumnProps };
+export type { Column };

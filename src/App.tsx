@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
 import { Table } from './components/Table'
-import { ColumnProps } from './components/Table/Table.types';
+import { Column } from './components/Table/Table.types';
 
 function App() {
 
@@ -17,7 +17,7 @@ function App() {
     city: string;
   }
 
-  const columns: Array<ColumnProps<Person>> = useMemo(() => {
+  const columns: Array<Column<Person>> = useMemo(() => {
     return [
       {
         key: 'name',

@@ -1,6 +1,6 @@
 src
 rollup.config.js
-react-tailwind-table*.tgz
+react-tailwindcss-table*.tgz
 postcss.config.cjs
 public
 README.md

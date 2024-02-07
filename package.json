@@ -1,6 +1,5 @@
 {
-  "name": "react-tailwind-table",
-  "private": true,
+  "name": "react-tailwindcss-table",
   "version": "0.0.0",
   "description": "A table made with React js and Tailwind CSS",
   "type": "module",

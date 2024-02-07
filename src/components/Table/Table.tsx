@@ -1,10 +1,10 @@
 
 import styles from './Table.module.css';
 import { twMerge } from 'tailwind-merge';
-import { ColumnProps } from './Table.types';
+import { Column } from './Table.types';
 
 type Props<T> = {
-  columns: Array<ColumnProps<T>>;
+  columns: Array<Column<T>>;
   data?: T[];
   className: {
     container: string;
