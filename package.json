@@ -1,6 +1,6 @@
 {
   "name": "react-tailwindcss-table",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A table made with React js and Tailwind CSS",
   "type": "module",
   "main": "dist/cjs/index.js",
